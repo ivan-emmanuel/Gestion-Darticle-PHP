@@ -14,9 +14,9 @@
 
 
 -- Dumping database structure for contacts
-DROP DATABASE IF EXISTS `contacts`;
-CREATE DATABASE IF NOT EXISTS `contacts` /*!40100 DEFAULT CHARACTER SET latin1 */;
-USE `contacts`;
+DROP DATABASE IF EXISTS `gestion_contacts_opensource`;
+CREATE DATABASE IF NOT EXISTS `gestion_contacts_opensource` /*!40100 DEFAULT CHARACTER SET latin1 */;
+USE `gestion_contacts_opensource`;
 
 -- Dumping structure for table contacts.categories
 DROP TABLE IF EXISTS `categories`;
